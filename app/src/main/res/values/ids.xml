@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button" type="id" />
+    <item name="answer" type="id" />
+    <item name="editTextPersonName" type="id" />
+    <item name="userGuess1answerinput" type="id" />
+    <item name="userGuess2answerinput" type="id" />
+    <item name="userGuess3answerinput" type="id" />
+</resources>
